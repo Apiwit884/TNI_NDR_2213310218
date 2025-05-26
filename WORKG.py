@@ -61,8 +61,4 @@ ax.grid(True)
 
 st.pyplot(fig)
 
-df = pd.DataFrame(
-    "WORK-6M.xlsx"
-)
 
-st.table(df)
